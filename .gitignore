@@ -6,6 +6,8 @@ __pycache__/
 venv/
 ENV/
 env/
+
+# Environment secrets — never commit this!
 .env
 
 # SQLite
